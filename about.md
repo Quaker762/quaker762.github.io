@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi! I'm Jesse! I'm a programmer from Melbourne, Australia. I love anything to do with embedded systems or 3D Graphics (or a combination of the
-two! GPUS are fun!), or anything computer related. 
+two! GPUS are fun!), or anything computer related. I work as an embedded systems programmer at [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices).
 
 I work on a few cool projects, some with some really _really_ smart people from around the world. Here are some projects that you might like:
 
